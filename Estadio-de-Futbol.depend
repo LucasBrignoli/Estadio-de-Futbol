@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1727733649 source:c:\users\lucas\desktop\subir a git\estadio-de-futbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estadio.h"
+	"persona.h"
+	"motivo.h"
+
+1727733583 source:c:\users\lucas\desktop\subir a git\estadio-de-futbol\estadio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estadio.h"
+	"persona.h"
+	"lista.h"
+
+1727733575 source:c:\users\lucas\desktop\subir a git\estadio-de-futbol\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"motivo.h"
+	"lista.h"
+
+1727733090 source:c:\users\lucas\desktop\subir a git\estadio-de-futbol\motivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"motivo.h"
+
+1727733495 c:\users\lucas\desktop\subir a git\estadio-de-futbol\estadio.h
+	"lista.h"
+	"persona.h"
+
+1727730164 source:c:\users\lucas\desktop\subir a git\estadio-de-futbol\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1727730208 c:\users\lucas\desktop\subir a git\estadio-de-futbol\nodo.h
+
+1727730219 source:c:\users\lucas\desktop\subir a git\estadio-de-futbol\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"lista.h"
+
+1727732280 c:\users\lucas\desktop\subir a git\estadio-de-futbol\lista.h
+	"nodo.h"
+
+1727733606 c:\users\lucas\desktop\subir a git\estadio-de-futbol\persona.h
+	"lista.h"
+	"motivo.h"
+
+1727732568 c:\users\lucas\desktop\subir a git\estadio-de-futbol\motivo.h
+
